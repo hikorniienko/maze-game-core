@@ -22,6 +22,12 @@ To create a development build:
 npm run build-dev
 ```
 
+Start development server:
+
+```sh
+npm run serve
+```
+
 ## Running
 
 ```sh
